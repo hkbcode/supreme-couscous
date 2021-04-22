@@ -1,2 +1,1 @@
-# supreme-couscous
-react apps
+## Reactjs app with chakra ui
